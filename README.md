@@ -1,7 +1,7 @@
-👋 Hi, I’m Emery Mangona
-👀 I’m interested in front-end web development
-🌱 I’m currently learning JavaScript
-📫 You can reach me through my LinkedIn!
+- 👋 Hi, I’m Emery Mangona
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning JavaScript
+- 📫 You can reach me through my LinkedIn!
 
 <!--
 **mangoeee/mangoeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
