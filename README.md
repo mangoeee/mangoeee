@@ -1,6 +1,5 @@
-- 👋  Hi, I’m Emery Mangona
-- 👀  I’m interested in front-end web development
-- 🌱  I’m currently learning JavaScript
+- 👋  Hi, I’m Emery Mangona!
+- 🌱  I’m currently learning Frontend Development using vanilla HTML5, CSS3, and JS!
 - 📫  You can reach me through my LinkedIn!
 
 <!--
