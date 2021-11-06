@@ -1,7 +1,6 @@
-# hey there!
-============
+# Hey there!
 
-* 👋  Hi, I’m Emery Mangona!
+* 👋  I’m Emery Mangona!
 * 🌱  I’m currently learning **Frontend Development** using HTML5, CSS3, and vanilla JS!
 * 📫  You can reach me through my LinkedIn!
 
