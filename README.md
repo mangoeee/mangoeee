@@ -1,6 +1,9 @@
-- 👋  Hi, I’m Emery Mangona!
-- 🌱  I’m currently learning Frontend Development using vanilla HTML5, CSS3, and JS!
-- 📫  You can reach me through my LinkedIn!
+# hey there!
+============
+
+* 👋  Hi, I’m Emery Mangona!
+* 🌱  I’m currently learning **Frontend Development** using HTML5, CSS3, and vanilla JS!
+* 📫  You can reach me through my LinkedIn!
 
 <!--
 **mangoeee/mangoeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
