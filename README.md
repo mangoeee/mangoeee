@@ -1,7 +1,7 @@
 # Hey there!
 
 * 👋  I’m Emery Mangona! I will be using GitHub to showcase my portfolio.
-* 🌱  I’m currently learning **Frontend Development** using HTML5, CSS3, and vanilla JS!
+* 🌱  I’m currently learning **Frontend Development** using React.js!
 * 📫  You can reach me through my LinkedIn!
 
 <!--
