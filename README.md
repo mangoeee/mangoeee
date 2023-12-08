@@ -1,6 +1,6 @@
 # Hey there!
 
-* 👋  I’m Emery Mangona! I will be using GitHub to showcase my portfolio.
+* 👋  I’m Emery!
 * 🌱  I’m currently self-learning **Frontend Development**!
 * 📫  You can reach me through my LinkedIn!
 
