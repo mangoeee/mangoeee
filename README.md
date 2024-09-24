@@ -1,8 +1,8 @@
 # Hey there!
 
 * 👋  I’m Emery!
-* 🌱  I’m currently self-learning **Frontend Development**!
 * 📫  You can reach me through my LinkedIn!
+* 🌱  I’m currently aspiring for an MS in Computer Science with a concentration on Human-Computer Interaction
 
 <!--
 **mangoeee/mangoeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
